@@ -12,13 +12,13 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 - [Author](#author)
 
 ## Overview
-  Introduction to event listeners and conditional statements
+  Introduction to addEventListener and conditional statements (Switch...case)
 
 ### Screenshot
  ![Alt text](images/Screenshot.png?raw=true)
 
 ### Links
-- View Live Site: [Click Here!]()
+- View Live Site: [Click Here!](https://umesiqueen.github.io/Drum-Kit/)
 
 ## My process
 
@@ -26,7 +26,7 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Java Script
+- JavaScript
 
 ## Author
 
